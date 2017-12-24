@@ -6,7 +6,7 @@ def readme():
 
 setup(
     name='pyjst',
-    version='0.1',
+    version='0.1.1',
     description='Bake a template from corresponding JSON object',
     long_description=readme(),
     keywords='simple static template templating json',
