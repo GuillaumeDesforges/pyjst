@@ -13,7 +13,7 @@ Create a project directory with given structure :
 
 In **templates/** you can put templates with extension **.html**. In **datas/** you can put
 corresponding data with extension **.json**. What this module does is simply render asked template
-_name.html_ with corresponding data _name.json_. The output is generated in folder **output/**.
+_name.tmpl_ with corresponding data _name.json_. The output is generated in folder **output/**.
 
 For instance let this file tree :
 - example/
