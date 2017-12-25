@@ -1,4 +1,4 @@
-# pyjst
+# pyjst : Python Json simple Templating
 
 Bake a template from corresponding JSON object
 
