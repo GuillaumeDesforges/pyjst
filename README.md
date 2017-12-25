@@ -21,8 +21,8 @@ For instance let this file tree :
         - example.json
         - another.json
     - templates/
-        - example.html
-        - another.html
+        - example.tmpl
+        - another.tmpl
 
 So go into your project folder : `cd example`
 
@@ -30,4 +30,5 @@ Then generate your static page _example_ : `pyjst example`
 
 Or generate static page _another_ : `pyjst another`
 
-Done !  
+You can specify more to the command (templates folder, output file path, JSON data file path),
+use `pyjst -h` to know how to use it.
