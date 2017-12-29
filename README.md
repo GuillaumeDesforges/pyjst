@@ -2,6 +2,8 @@
 
 Bake a template from corresponding JSON object
 
+**Warning** : after some experience, JSON is _NOT_ Pythonic. Use YAML instead.
+
 ## How to use
 
 Install (Python 3) : `pip install pyjst`
